@@ -23,8 +23,6 @@ body {
   justify-content: center;
   align-items: center;
   transition: 1.5s;
-  opacity: 0%;
-  transform: translateY(-2000px);
 }
 #root .NoDevices .header {
   position: absolute;
@@ -75,6 +73,7 @@ body {
   justify-content: center;
   align-items: center;
   width: 100%;
+  display: none;
   height: calc(100vh - 50px);
 }
 #root .device .display {

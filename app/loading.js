@@ -6,9 +6,9 @@ class Loading extends React.Component {
 					<div className="header">
 						<h1>Helena Scrcpy</h1>
 					</div>
-					<a className="BtnHelp">How can you activate Depuration USB</a>
-					<img src="../images/topbanner.png" alt="No connected"/>
-					<h1>Devices not know try ajust the cable or verific if Deburation USB is active</h1>
+					<a className="BtnHelp">How can you activate USB Debugging</a>
+					<img src="../images/topbanner.png" alt="Not connected"/>
+					<h1>Devices not known, try adjusting the cable or verifying if USB Debugging is active</h1>
 				</div>
 			</div>
 		)
