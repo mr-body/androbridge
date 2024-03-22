@@ -6,7 +6,7 @@ Aesthetic - 100% Fully Responsive Free HTML5 Bootstrap Template
 AUTHOR:
 DESIGNED & DEVELOPED by GetTemplates.co
 
-Website: http://mr.body.web.app
+Website: https://mrbody.web.app/
 
 **This GitHub repo (<https://github.com/Genymobile/scrcpy>) is the only official
 source for the project. Do not download releases from random websites, even if
@@ -23,7 +23,7 @@ USB or [over TCP/IP](doc/connection.md#tcpip-wireless), and allows to control th
 device with the keyboard and the mouse of the computer. It does not require any
 _root_ access. It works on _Linux_, _Windows_ and _macOS_.
 
-![screenshot](assets/tela.png)
+![screenshot](./tela.png)
 
 It focuses on:
 
