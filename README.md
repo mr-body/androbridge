@@ -1,20 +1,18 @@
 # Helena Scrcpy
 
 TITLE: 
-Aesthetic - 100% Fully Responsive Free HTML5 Bootstrap Template
+cell phone control system using usb or wifi
 
 AUTHOR:
-DESIGNED & DEVELOPED by GetTemplates.co
+mr.Body (Walter Santana)
 
 Website: https://mrbody.web.app/
 
-**This GitHub repo (<https://github.com/Genymobile/scrcpy>) is the only official
-source for the project. Do not download releases from random websites, even if
-their name contains `scrcpy`.**
+**This GitHub repository (<https://github.com/mr-body/Helena-Scrcpy>) is based on Genymobile's scrcpy, with a more entertaining graphical performance for slightly more inexperienced users`scrcpy`.**
 
-# scrcpy (v2.4)
+# Projecto Helena (v0.2)
 
-<img src="app/data/icon.svg" width="128" height="128" alt="scrcpy" align="right" />
+<img src="icon.svg" width="128" height="128" alt="scrcpy" align="right" />
 
 _pronounced "**scr**een **c**o**py**"_
 
@@ -36,7 +34,7 @@ It focuses on:
  - **user benefits**: no account, no ads, no internet required
  - **freedom**: free and open source software
 
-[lowlatency]: https://github.com/Genymobile/scrcpy/pull/646
+[original]: https://github.com/Genymobile/scrcpy
 
 CREDITS:
 
@@ -46,36 +44,14 @@ http://getbootstrap.com/
 jQuery
 http://jquery.com/
 
-jQuery Easing
-http://gsgd.co.uk/sandbox/jquery/easing/
+python Eel
+https://github.com/python-eel/Eel
 
-Modernizr
-http://modernizr.com/
+reactjs
+https://pt-br.legacy.reactjs.org/
 
-Google Fonts
-https://www.google.com/fonts/
+Android Debug Bridge (adb)
+https://developer.android.com/tools/adb
 
-Icomoon
-https://icomoon.io/app/
-
-Respond JS
-https://github.com/scottjehl/Respond/blob/master/LICENSE-MIT
-
-animate.css
-http://daneden.me/animate
-
-jQuery Waypoint
-https://github.com/imakewebthings/waypoints/blog/master/licenses.txt
-
-Owl Carousel
-http://www.owlcarousel.owlgraphic.com/
-
-jQuery countTo
-http://www.owlcarousel.owlgraphic.com/
-
-Magnific Popup
-http://dimsemenov.com/plugins/magnific-popup/
-
-Demo Images:
-http://unsplash.com
-
+scrcpy
+https://github.com/Genymobile/scrcpy
