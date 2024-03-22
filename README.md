@@ -44,14 +44,14 @@ http://getbootstrap.com/
 jQuery
 http://jquery.com/
 
-python Eel
-https://github.com/python-eel/Eel
+Electronjs
+https://www.electronjs.org/pt/
 
-reactjs
+Reactjs
 https://pt-br.legacy.reactjs.org/
 
 Android Debug Bridge (adb)
 https://developer.android.com/tools/adb
 
-scrcpy
+Scrcpy
 https://github.com/Genymobile/scrcpy
