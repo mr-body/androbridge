@@ -1,4 +1,5 @@
 const { app, BrowserWindow, ipcMain} = require('electron')
+const { exec } = require('child_process');
 const apc = require('./ipc');
 
 apc.init();
@@ -21,7 +22,7 @@ function FormMain() {
   })
 
   mainWindow.loadFile('app/public/index.html');
-
+  
   mainWindow.on('closed', function () {
     mainWindow = null;
     if (process.platform !== 'darwin') app.quit()
